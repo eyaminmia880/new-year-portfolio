@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+.banner {
+    background-image: url(../images/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    opacity: 100%;
+    border-radius: 16px;
+    margin: 50px 140px;
+    box-shadow: #070211;
+    background-color: black;
+}
+
+.box {
+    padding: 177px 344px;
+}
+
+.sub-title {
+    font-size: 32px;
+    color: #FFFFFF;
+    text-align: center;
+    /* padding: 180px 530px; */
+    gap: 16px;
+}
+
+.title {
+    font-size: 72px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.offer-title {
+    text-align: center;
+}
+
+.order {
+    font-size: 88px;
+    font-weight: bold;
+    font-family: inter;
+    color: #FF0000;
+}
+
+.our {
+    font-size: 24px;
+    font-weight: 500px;
+    color: #FF0000;
+    margin-bottom: 16px;
+}
+
+.all {
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+}
+
+.banner-3 {
+    background-image: url('../images/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+
+    background: linear-gradient (90.00deg,
+            rgb(7, 2, 17),
+            rgba(7, 2, 17, 0) 100%);
+    margin: 0px 140px 0px 140px;
+    background-repeat: no-repeat;
+    gap: 20px;
+}
+
+.midnight {
+    color: #FFFFFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    text-align: left;
+    padding: 120px 550px 0px 120px;
+    gap: 0px;
+}
+
+.dolor {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 0px 400px 0px 120px;
+    gap: 50px;
+
+
+}
+
+.join {
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: uppercase;
+    padding: 20px 90px 0px 140px;
+}
+
+.vector {
+    text-align: center;
+    background-color: border-radius: 16px;
+
+    background: linear-gradient(180.00deg, 
+    rgba(255, 0, 0, 0.1),
+     rgba(255, 0, 0, 0) 100%);;
+     margin: 0px 50px 0px 140px;
+     border-radius: 16px
+    
+     
+}
+
+.vector-content {
+    font-size: 32px;
+    font-weight: bold;
+    padding: 100px 380px 200px 320px;
+    margin-top: 30px;
+}
+.primary-bg{
+    color: #FF0000;
+}
+.btn{
+    font-weight: 700px;
+    font-size: 20px;
+    color: white;
+    background-color: #FF0000;
+    border-radius: 10px;
+    border: none;
+    padding: 20px;
+}
+.group{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px;
+}
+.description{
+    font-size: 20px;
+    color: #070211;
+    padding: 0px 0px 0px 30px;
+    text-align: left;
+    gap: 20px 30px;
+}
+.title{
+    font-size: 48px;
+    font-weight: 900px;
+    color: #070211;
+    padding: 0px 0px 0px 30px;
+    text-align: left;
+    gap: 20px 30px;
+}
+.sub-title{
+    font-size: 24px;
+    font-weight: 500px;
+    padding: 0px 0px 0px 30px;
+    text-align: left;
+    gap: 20px 30px;
+}
+.section-column{
+    padding: 0px 110px;
+}
